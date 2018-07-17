@@ -1,0 +1,9 @@
+E:\MyPrograms\hll\CSharp\simulator\Cardiac\Cardiac\bin\Debug\Cardiac.exe
+E:\MyPrograms\hll\CSharp\simulator\Cardiac\Cardiac\bin\Debug\Cardiac.pdb
+E:\MyPrograms\hll\CSharp\simulator\Cardiac\Cardiac\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyPrograms\hll\CSharp\simulator\Cardiac\Cardiac\obj\x86\Debug\LittleManComputer.Form1.resources
+E:\MyPrograms\hll\CSharp\simulator\Cardiac\Cardiac\obj\x86\Debug\Cardiac.Properties.Resources.resources
+E:\MyPrograms\hll\CSharp\simulator\Cardiac\Cardiac\obj\x86\Debug\ResGen.read.1.tlog
+E:\MyPrograms\hll\CSharp\simulator\Cardiac\Cardiac\obj\x86\Debug\ResGen.write.1.tlog
+E:\MyPrograms\hll\CSharp\simulator\Cardiac\Cardiac\obj\x86\Debug\Cardiac.exe
+E:\MyPrograms\hll\CSharp\simulator\Cardiac\Cardiac\obj\x86\Debug\Cardiac.pdb
